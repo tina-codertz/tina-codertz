@@ -41,30 +41,7 @@ Currently:
 
 ---
 
-## 🌍 Featured Project
 
-### 🌱 Air Quality Monitoring System
-**Institution:** Ardhi University  
-
-A system designed to monitor, collect, and visualize air quality data for environmental analysis and decision-making.
-
-**Key Features:**
-- Air quality data collection & monitoring
-- Backend API for data processing
-- Database storage using PostgreSQL
-- User-friendly dashboard for visualization
-
-**Tech Stack:**
-React • Node.js • PostgreSQL
-
----
-
-## 📂 Other Projects
-- Full-stack web applications using React & Node.js  
-- Mobile applications built with React Native  
-- UI-focused projects emphasizing usability and accessibility  
-
----
 
 ## 🎯 Goals
 - Grow as a full-stack developer
