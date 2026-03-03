@@ -13,7 +13,6 @@ I'm a software developer and UI designer focused on building scalable, user-frie
 Currently:
 - 🧩 Building full-stack applications with **React & Node.js**
 - 📱 Developing mobile apps using **React Native**
-- 🗄 Working with **PostgreSQL databases**
 - ☁️ Learning **DevOps & Cloud Deployment**
 - 🌱 Improving system reliability and deployment workflows
 
@@ -47,7 +46,7 @@ Currently:
 - Grow as a full-stack developer
 - Gain hands-on experience in DevOps & cloud deployment
 - Contribute to impactful real-world projects
-- Secure internships or junior developer opportunities
+
 
 ---
 
