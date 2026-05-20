@@ -1,13 +1,13 @@
 # Hi, I'm Christina Kimario 👋
 
-🎓 Bsc.Information Systems Management 
-💻 Full-Stack Developer & UI Designer  
+
+💻 Full-Stack Developer
 🌍 Tanzania  
 
 ---
 
-## 🚀 About Me
-I'm a software developer and UI designer focused on building scalable, user-friendly, and data-driven applications.  
+## 🚀 About Me 
+focused on building scalable, user-friendly, and data-driven applications.  
 
 
 Currently:
@@ -23,11 +23,11 @@ Currently:
 ### Frontend
 - React
 - React Native
-- JavaScript / TypeScript
-- UI Design (Figma, modern UI principles)
+
 
 ### Backend
 - Node.js
+- nestjs
 - REST APIs
 
 ### Database
@@ -54,6 +54,4 @@ Currently:
 - 💼 LinkedIn: https://www.linkedin.com/in/christinakimario/
 - 📧 Email: christinakimario8@gmail.com
 
----
 
-⭐ Feel free to explore my repositories and reach out for collaboration or opportunities!
