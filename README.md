@@ -1,16 +1,5 @@
-# Hi, I'm Christina Kimario 👋
+#Christina Kimario
 
-
-💻 Full-Stack Developer
-🌍 Tanzania  
-
----
-
-## 🚀 About Me 
-focused on building scalable, user-friendly, and data-driven applications.  
-
-
-Currently:
 - 🧩 Building full-stack applications with **React & Node.js**
 - 📱 Developing mobile apps using **React Native**
 - ☁️ Learning **DevOps & Cloud Deployment**
@@ -39,13 +28,6 @@ Currently:
 - Cloud hosting & server configuration
 
 ---
-
-
-
-## 🎯 Goals
-- Grow as a full-stack developer
-- Gain hands-on experience in DevOps & cloud deployment
-- Contribute to impactful real-world projects
 
 
 ---
